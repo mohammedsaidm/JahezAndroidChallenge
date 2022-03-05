@@ -1,7 +1,8 @@
-package net.jahez.jahezchallenge
+package net.jahez.jahezchallenge.view
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import net.jahez.jahezchallenge.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
